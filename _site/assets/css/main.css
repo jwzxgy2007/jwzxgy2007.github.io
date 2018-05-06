@@ -3998,7 +3998,6 @@ cite {
 }
 
 .chapters .chapter {
-  /*position: relative;*/
   width: 32.333%;
   margin: 0 0.5% 1% 0.5%;
   overflow: hidden;
@@ -4018,12 +4017,6 @@ cite {
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
 }
-
-/*.chapters .chapter img:hover {
-  -webkit-transform: scale(1.5);
-      -ms-transform: scale(1.5);
-          transform: scale(1.5);
-}*/
 
 .chapters .chapter_inner {
   position: absolute;

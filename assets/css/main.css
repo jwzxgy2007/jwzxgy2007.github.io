@@ -3979,7 +3979,10 @@ cite {
   text-align: center;
   color: #ffffff;
 }
-
+#zlx .title{
+  text-align: center;
+  color: #ffffff;
+  }
 #banner .content .title {
   font-size: 3.5rem;
   margin: 0 0 1rem 0;

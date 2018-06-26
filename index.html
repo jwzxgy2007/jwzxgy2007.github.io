@@ -1,7 +1,9 @@
 ---
 layout: main
 ---
-
+<style> 
+a{ text-decoration:none} 
+</style> 
 {% for post in paginator.posts %}
   <div class="chapter">
     <a href="{{post.url | prepend: site.baseurl}}">

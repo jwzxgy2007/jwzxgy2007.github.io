@@ -49,6 +49,15 @@
 <lastmod>2017-07-12T17:55:00+08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/a/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/b/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/c/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>

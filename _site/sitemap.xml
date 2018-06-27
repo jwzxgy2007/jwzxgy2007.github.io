@@ -52,6 +52,12 @@
 <loc>http://localhost:4000/a/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/a2/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/a3/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/b/</loc>
 </url>
 <url>
@@ -59,9 +65,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/maina/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tags/</loc>

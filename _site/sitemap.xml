@@ -58,6 +58,9 @@
 <loc>http://localhost:4000/a3/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/a4/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/b/</loc>
 </url>
 <url>
@@ -67,6 +70,9 @@
 <loc>http://localhost:4000/b3/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/b4/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/c/</loc>
 </url>
 <url>
@@ -74,6 +80,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/c3/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/c4/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
